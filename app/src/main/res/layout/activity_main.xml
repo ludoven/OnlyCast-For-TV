@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--
     <LinearLayout
         android:id="@+id/top_layout"
         android:layout_width="match_parent"
@@ -69,10 +70,8 @@
             app:drawableWidth="27dp" />
 
     </LinearLayout>
+-->
 
-    <androidx.viewpager2.widget.ViewPager2
-        android:id="@+id/view_pager"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
